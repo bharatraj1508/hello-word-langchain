@@ -4,6 +4,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 load_dotenv()
 
+# Implemente lang smith for tracing in python environment
 
 def main():
     print("Hello from hello-word-langchain!")
